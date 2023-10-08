@@ -7,7 +7,7 @@ The backend of Isekai Portal is built using Node.js and Express.js. It handles u
 To run the backend locally, follow these steps:
 
 1. Clone the repository:
-   >git clone https://github.com/your-username/isekai-portal-backend.git
+   >git clone this repo
    >cd isekai-portal-backend
 
 2. Install dependencies:
